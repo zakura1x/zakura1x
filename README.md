@@ -2,7 +2,9 @@
 
 # Hi, I'm Zeus Tenerife
 
-**Virtual Assistant · Customer & Technical Support · AI Software Engineer**
+**Technical Virtual Assistant · AI Software Engineer**
+
+Workflow automation, technical support and AI-powered business apps.
 
 📍 Philippines (GMT+8) · Open to remote roles and freelance projects
 
@@ -12,11 +14,12 @@
 
 ### About me
 
-- **4+ years of email and chat customer support** in e-commerce: order tracking, returns, refunds, escalations and high-volume ticket queues in Zendesk, Gorgias and Shopify.
+- **Technical Virtual Assistant (Customer Support & Automation)** for an e-commerce and hospitality business. I built Zapier automations that run a short-term-rental cleaning schedule in Airtable: Airbnb bookings become cleaning records with duplicate protection, date changes update the schedule, and cleaners get a daily text reminder with a confirmation check. I also handled high-volume email and chat support and kept tasks and SOPs organized in Trello and Asana. ([See the automations](https://zakura1x.github.io/#automations))
+- **4+ years of email and chat customer support** in e-commerce: order tracking, returns, refunds and escalations in Zendesk, Gorgias and Shopify.
 - **AI Business Application Developer at Noah Business Applications (Aug 2025 – Sep 2026).** I built AI business modules for the FAITE platform, including STWRD.CRM (a B2B CRM with an AI assistant), QUOT (AI supplier-quote comparison and bidding) and HR automation (Certificate of Employment requests, a policy FAQ chatbot, and AI-interview pre-onboarding).
 - **BS Computer Science, Cum Laude**, University of Nueva Caceres (2021 – 2025). My thesis, UNC P.A.R.S, won 3rd Best Research and Best Presenter at the Bicol Research Summit 2025.
 
-I understand support work from the agent's chair and from the system's side. I investigate before I escalate, verify numbers before they go out, and document as I go.
+Whether it's fixing a broken workflow or shipping an AI feature, I take it from idea to a working system. I investigate before I escalate, verify numbers before they go out, and document as I go.
 
 ### Featured public projects
 
@@ -31,7 +34,9 @@ Professional work done for employers and clients lives in private repositories. 
 
 ### Tools & technologies
 
-**Support & operations:** Zendesk · Gorgias · Commslayer · Shopify · ClickUp · Asana · Notion · Jira · Slack · Google Workspace · Microsoft Office
+**Automation & operations:** Zapier · Airtable · Trello · Asana · ClickUp · Notion · Jira · Slack · Google Workspace · Microsoft Office
+
+**Customer support:** Zendesk · Gorgias · Commslayer · Shopify
 
 **Development:** Python · TypeScript · JavaScript · Java · PHP · SQL · FastAPI · Flask · React · Laravel · Tailwind CSS
 
